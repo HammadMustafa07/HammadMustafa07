@@ -35,8 +35,8 @@ I love turning **ideas into reality** through **code**.
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HammadMustafa07&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammadMustafa07&theme=tokyonight" height="180px" />
 
 </div>
 
@@ -53,8 +53,8 @@ I love turning **ideas into reality** through **code**.
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge)](https://your-portfolio-link.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hammad-mustafa-b0462a338/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge)](https://github.com/HammadMustafa07)
 
 </div>
 
