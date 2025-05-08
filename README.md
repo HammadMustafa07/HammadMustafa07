@@ -11,7 +11,6 @@ I love turning **ideas into reality** through **code**.
 
 ## 🚀 About Me
 - 🎓 Learning: **[Python and Exploring Agentic AI]**
-- 🛠️ Building: **[I am Working on an Instagram Clone]**
 - 🎯 Goal: **Master new technologies and create impactful projects**
 - 💬 Let's Connect: Always happy to **collaborate** or **geek out about tech**!
 
