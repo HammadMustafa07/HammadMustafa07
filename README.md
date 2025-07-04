@@ -71,7 +71,7 @@ I'm a **Full-Stack Web Developer** and an aspiring **Agentic AI Developer**, pas
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/hammad-mustafa-b0462a338/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/hammad-mustafa-abro-b0462a338/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge)](https://github.com/HammadMustafa07)
 
 </div>
